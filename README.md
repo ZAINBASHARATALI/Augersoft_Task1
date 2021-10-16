@@ -1,6 +1,6 @@
-# task1
+# Task-1
 
-A new Flutter project.
+Implementation of DialogBox, AlertBox and BottomSheet in Flutter.
 
 ## Getting Started
 
